@@ -1,7 +1,7 @@
 import { initializeApp } from "firebase/app";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyB3LVsGpQVUuxnrFxJlknKd_mNqCQIKgb0",
+    apiKey: import.meta.env.FIREBASE_PUBLIC_API_KEY,
     authDomain: "ai-generator-d0a97.firebaseapp.com",
     projectId: "ai-generator-d0a97",
     storageBucket: "ai-generator-d0a97.appspot.com",

@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # ai-generator
 Tech stack: AstroJS, Firebase, Python, Stripe, TailwindCSS
-# AI SaaS App
+
 =======
 # Astro Starter Kit: Basics
 

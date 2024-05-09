@@ -1,12 +1,13 @@
 import { initializeApp } from "firebase/app";
 
 const firebaseConfig = {
-    apiKey: "my-public-api-key",
-    authDomain: "my-auth-domain",
-    projectId: "my-project-id",
-    storageBucket: "my-storage-bucket",
-    messagingSenderId: "my-sender-id",
-    appId: "my-app-id",
+    apiKey: "AIzaSyB3LVsGpQVUuxnrFxJlknKd_mNqCQIKgb0",
+    authDomain: "ai-generator-d0a97.firebaseapp.com",
+    projectId: "ai-generator-d0a97",
+    storageBucket: "ai-generator-d0a97.appspot.com",
+    messagingSenderId: "3385630918",
+    appId: "1:3385630918:web:e7c1536206a79d35c177c7",
+    measurementId: "G-P0EGDCLDCD"
 };
 
 export const app = initializeApp(firebaseConfig);

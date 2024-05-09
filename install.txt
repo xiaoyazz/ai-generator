@@ -1,0 +1,7 @@
+npx astro add tailwind
+npm install flowbite
+npm i -D flowbite-typography
+npm i -D tailwind-scrollbar
+npm install uuid
+
+npm install firebase firebase-admin
